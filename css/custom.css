@@ -421,12 +421,14 @@ NO MORE TABLES!! ;)
 	}
 }
 
+.wrap ul {
+  width: 100%;
+}
+.wrap ul > li {	
+  width: 50%; 
+  float: left;
+}
 
-
-
-
-
-
-
-
-
+#new_info{
+	margin-top: 170px;
+}
